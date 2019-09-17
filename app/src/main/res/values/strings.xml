@@ -1,0 +1,147 @@
+<resources>
+    <string name="app_name">sub2</string>
+    <string name="action_settings">Languange setting</string>
+    <string name="film">Film</string>
+    <string name="tv_show">TV Show</string>
+    <string name="nav_open">Open navigation </string>
+    <string name="navi_close">Close navigation </string>
+
+    <string-array name="title">
+        <item>Aquaman</item>
+        <item>Avengers: Infinity War</item>
+        <item>Bird Box</item>
+        <item>Bumblebee </item>
+        <item>Deadpool 2</item>
+        <item>How to Train Your Dragon: The Hidden World</item>
+        <item>Dragon Ball Super: Broly </item>
+        <item>Ant-Man and the Wasp </item>
+        <item>Spider-Man: Into the Spider-Verse</item>
+        <item>venom</item>
+    </string-array>
+
+    <array name="image">
+        <item>@drawable/poster_aquaman</item>
+        <item>@drawable/poster_avengerinfinity</item>
+        <item>@drawable/poster_birdbox</item>
+        <item>@drawable/poster_bumblebee</item>
+        <item>@drawable/poster_deadpooll</item>
+        <item>@drawable/poster_dragon</item>
+        <item>@drawable/poster_dragonball</item>
+        <item>@drawable/poster_antman</item>
+        <item>@drawable/poster_spiderman</item>
+        <item>@drawable/poster_venom</item>
+
+    </array>
+
+
+    <string-array name="realese">
+        <item>December 21, 2018</item>
+        <item>April 27,2019</item>
+        <item>November 12, 2018</item>
+        <item>December 21, 2018</item>
+        <item>May 10, 2018</item>
+        <item>January 3, 2019</item>
+        <item>December 14, 2018</item>
+        <item>July 6, 2018</item>
+        <item>December 14,2018</item>
+        <item>October 5, 2018</item>
+    </string-array>
+
+    <string name="a">Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orms half-human, half-Atlantean brother and true heir to the throne.</string>
+    <string name="b">As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</string>
+    <string name="c">Five years after an ominous unseen presence drives most of society to suicide, a survivor and her two children make a desperate bid to reach safety.</string>
+    <string name="d">On the run in the year 1987, Bumblebee finds refuge in a junkyard in a small Californian beach town. Charlie, on the cusp of turning 18 and trying to find her place in the world, discovers Bumblebee, battle-scarred and broken. When Charlie revives him, she quickly learns this is no ordinary yellow VW bug.</string>
+    <string name="e">Wisecracking mercenary Deadpool battles the evil and powerful Cable and other bad guys to save a boys life.</string>
+    <string name="f">As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless’ discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup’s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.</string>
+    <string name="g">Earth is peaceful following the Tournament of Power. Realizing that the universes still hold many more strong people yet to see, Goku spends all his days training to reach even greater heights. Then one day, Goku and Vegeta are faced by a Saiyan called
+            Broly who they never seen before. The Saiyans were supposed to have been almost completely wiped out in the destruction of Planet Vegeta, so whats this one doing on Earth? This encounter between the three Saiyans who have followed completely different destinies turns into a stupendous battle, with even Frieza (back from Hell) getting caught up in the mix.</string>
+    <string name="h">ust when his time under house arrest is about to end, Scott Lang once again puts his freedom at risk to help Hope van Dyne and Dr. Hank Pym dive into the quantum realm and try to accomplish, against time and any chance of success, a very dangerous rescue mission.</string>
+    <string name="i">Miles Morales is juggling his life between being a high school student and being a spider-man. When Wilson "Kingpin" Fisk uses a super collider, others from across the Spider-Verse are transported to this dimension.</string>
+    <string name="j">Investigative journalist Eddie Brock attempts a comeback following a scandal, but accidentally becomes the host of Venom, a violent, super powerful alien symbiote. Soon, he must rely on his newfound powers to protect the world from a shadowy organization looking for a symbiote of their own.</string>
+
+
+    <string-array name="info">
+        <item>@string/a</item>
+        <item>@string/b</item>
+        <item>@string/c</item>
+        <item>@string/d</item>
+        <item>@string/e</item>
+        <item>@string/f</item>
+        <item>@string/g</item>
+        <item>@string/h</item>
+        <item>@string/i</item>
+        <item>@string/j</item>
+          </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string-array name="tittle_show">
+        <item>Unknown Soldier </item>
+        <item>An Unknown Enemy</item>
+        <item>The Resident </item>
+        <item>Final Space</item>
+        <item>Chilling Adventures of Sabrina</item>
+        <item>Devilman: Crybaby </item>
+        <item>Black Lightning</item>
+        <item>Krypton </item>
+        <item>Killing Eve</item>
+        <item>72 Dangerous Animals: Asia</item>
+    </string-array>
+
+    <array name="img_show">
+        <item>@drawable/poster_unkwon</item>
+        <item>@drawable/poster_an</item>
+        <item>@drawable/poster_resident</item>
+        <item>@drawable/poster_final</item>
+        <item>@drawable/poster_image</item>
+        <item>@drawable/poster_devil</item>
+        <item>@drawable/poster_blasck</item>
+        <item>@drawable/psoter_krypton</item>
+        <item>@drawable/poster_eve</item>
+        <item>@drawable/poster_netflix</item>
+
+    </array>
+
+    <string-array name="realeas_show">
+        <item>December 30, 2018</item>
+        <item>October 1, 2018</item>
+        <item>January 21, 2018</item>
+        <item>February 26, 2018</item>
+        <item>October 26, 2018</item>
+        <item>January 5, 2018</item>
+        <item>January 16, 2018</item>
+        <item>March 21, 2018</item>
+        <item>April 8, 2018</item>
+        <item>August 10, 2018</item>
+
+    </string-array>
+
+    <string name="k">Follow Finnish Army machine gun company operating in the Karelian front during the Continuation War from mobilisation in 1941 to the Moscow Armistice in 1944.</string>
+<string name = "l">Fernando Barrientos, Head of the National Security Directorate, Mexico Secret Police, is trying to reach the highest position in the country. On his way, hell have to manipulate, betray, and kill, and he well prepared for it. However, his path will be full of obstacles. Nobody, not even his family, will be immune to the chaos left in his quest for total power.</string>
+<string name = "m">A tough, brilliant senior resident guides an idealistic young doctor through his first day, pulling back the curtain on what really happens, both good and bad, in modern-day medicine.</string>
+<string name = "n">An astronaut named Gary and his planet-destroying sidekick Mooncake embark on serialized journeys through space in order to unlock the mystery of “Final Space,” the last point in the universe, if it actually does exist.</string>
+<string name = "o">As her 16th birthday nears, Sabrina must choose between the witch world of her family and the human world of her friends. Based on the Archie comic.</string>
+<string name = "p">Akira Fudo learns from his best friend Ryo Asuka that demons will revive and reclaim the world from humans. With humans hopeless against this threat, Ryo suggests combining with a demon. With this, Akira becomes Devilman, a being with the power of demon but with a human heart.</string>
+<string name = "q">Jefferson Pierce is a man wrestling with a secret. As the father of two daughters and principal of a charter high school that also serves as a safe haven for young people in a New Orleans neighborhood overrun by gang violence, he is a hero to his community.</string>
+<string name = "r">Set two generations before the destruction of the legendary Man of Steel’s home planet, Krypton follows Superman’s grandfather — whose House of El was ostracized and shamed — as he fights to redeem his family’s honor and save his beloved world from chaos.</string>
+<string name = "s">A security consultant hunts for a ruthless assassin. Equally obsessed with each other, they go head to head in an epic game of cat-and-mouse</string>
+<string name = "t">From fangs to claws to venomous stings, they all wield deadly weapons. But which creature will be crowned the fiercest of all?</string>
+
+
+<string-array name="info_show">
+
+<item>@string/k</item>
+        <item>@string/l</item>
+        <item>@string/m</item>
+        <item>@string/n</item>
+        <item>@string/o</item>
+        <item>@string/p</item>
+        <item>@string/q</item>
+        <item>@string/r</item>
+        <item>@string/s</item>
+        <item>@string/t</item>
+</string-array>
+
+
+</resources>
